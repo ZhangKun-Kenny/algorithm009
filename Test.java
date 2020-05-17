@@ -1,3 +1,5 @@
+
+//爬楼梯问题
 public class Test{
 	public static void main(String[] args){
 		System.out.println(f1(40));
